@@ -170,7 +170,7 @@ body {
 * Replace all existing typography styles in `src/patterns/global/utils/_typography.scss` with the code below.
 
 {% tabs %}
-{% tab title="\_pography.scss" %}
+{% tab title="\_typography.scss" %}
 ```css
 // Typography
 //
@@ -238,7 +238,7 @@ h4 {
 
 ## Color variables
 
-* Replace all existing color variables in `src/patterns/global/colors/_colors.scss` with the code below.
+* Add these colors to the end of the existing color variables in `src/patterns/global/colors/_colors.scss` with the code below.
 
 {% tabs %}
 {% tab title="\_colors.scss" %}
